@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy – Power Prompts</title>
+<style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  margin: 40px auto;
+  max-width: 750px;
+  line-height: 1.6;
+  padding: 0 20px;
+  color: #222;
+}
+h1 { font-size: 32px; }
+h2 { margin-top: 28px; }
+</style>
+</head>
+
+<body>
+
+<h1>Privacy Policy for Power Prompts</h1>
+
+<p><strong>Last Updated:</strong> March 13, 2026</p>
+
+<h2>Overview</h2>
+<p>
+Power Prompts is designed to help users access curated prompts that improve interactions with AI tools. 
+Your privacy is important, and this app is built with a minimal data approach.
+</p>
+
+<p><strong>Power Prompts does not collect, store, transmit, or share personal data.</strong></p>
+
+<h2>Information Collection</h2>
+<p>
+Power Prompts does not collect personal information.
+</p>
+
+<ul>
+<li>No account creation is required</li>
+<li>No user tracking</li>
+<li>No analytics collection</li>
+<li>No access to contacts, photos, or personal files</li>
+</ul>
+
+<p>
+Any prompts or text you interact with remain on your device.
+</p>
+
+<h2>Data Storage</h2>
+<p>
+Power Prompts does not store user data on external servers.
+All content in the app is either preloaded prompt content included in the application
+or user text that remains locally on your device.
+</p>
+
+<p>
+The app simply allows users to copy prompts for use with external AI tools.
+</p>
+
+<h2>Third-Party Services</h2>
+<p>
+Power Prompts does not integrate with external APIs, AI services, or third-party analytics providers.
+</p>
+
+<p>
+The app does not transmit prompts or user content to any external service.
+</p>
+
+<h2>Data Security</h2>
+<p>
+Because Power Prompts does not collect or transmit user data,
+there is no external storage of personal information associated with app usage.
+</p>
+
+<h2>Children’s Privacy</h2>
+<p>
+Power Prompts does not knowingly collect personal information from anyone,
+including children under the age of 13.
+</p>
+
+<h2>Changes to This Policy</h2>
+<p>
+This Privacy Policy may be updated occasionally to reflect improvements to the app
+or changes in applicable policies. Updates will be posted with a revised
+“Last Updated” date.
+</p>
+
+<h2>Contact</h2>
+<p>
+If you have questions about this Privacy Policy, you may contact the developer at:
+</p>
+
+<p>
+<strong>Email:</strong> ops@stonewave.life
+</p>
+
+</body>
+</html>
